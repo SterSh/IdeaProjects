@@ -1,0 +1,1 @@
+{"name":"Derrick","health":10,"mana":20,"gold":100,"equipment":{"Backpack":100,"Cloak":2,"Dagger":1}}
