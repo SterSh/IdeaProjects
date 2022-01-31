@@ -12,7 +12,7 @@ public class Main {
 
         String city = myObj.nextLine();  // Read user input
 
-        String key = "24a2b43b217d74ed51778f8f949d3cbd";
+        String key = ""; //Enter API Key Here
         String condUrl = " https://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=imperial&apiKey=" + key;
         String foreUrl = " https://api.openweathermap.org/data/2.5/forecast?q=" + city + "&units=imperial&apiKey=" + key;
 
